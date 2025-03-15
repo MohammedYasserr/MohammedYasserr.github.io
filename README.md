@@ -1,6 +1,6 @@
 # Mouhammed Soliman
 
-![Mouhammed Soliman](mos_400_400.jpg)
+![Mouhammed Soliman](mos_400_400.png)
 
 ## About Me
 
