@@ -1,6 +1,7 @@
+<div style="background-color: black; color: white; padding: 20px;">
 # Mouhammed Soliman
 
-![Mouhammed Soliman](mos_400_400.jpg)
+![Mouhammed Soliman](mos_400_400.png)
 
 ## About Me
 
@@ -50,3 +51,4 @@ Welcome to my personal GitHub page! I am a Master's student in Bioinformatics at
 ### Prot-pred
 ML model for 3D protein structure identification.  
 **More info**: [Prot-pred Repository](https://github.com/MohammedYasserr/prot-pred)
+</div>
