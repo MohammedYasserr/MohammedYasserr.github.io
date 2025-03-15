@@ -1,7 +1,6 @@
-<div style="background-color: black; color: white; padding: 20px;">
 # Mouhammed Soliman
 
-![Mouhammed Soliman](mos_400_400.png)
+![Mouhammed Soliman](mos_400_400.jpg)
 
 ## About Me
 
@@ -24,17 +23,27 @@ Welcome to my personal GitHub page! I am a Master's student in Bioinformatics at
 ## Skills
 
 - **Languages**: Python, C++, TypeScript, SQL, Linux/Bash
-- **Frameworks**: PyTorch, Numpy, OpenCV, Microservices, gRPC, Distributed Systems
+- **Frameworks**: PyTorch, Numpy, OpenCV, Angular, Microservices, gRPC, Distributed Systems
 - **Tools**: Kubernetes, Docker, GIT
 - **Platforms**: AWS, GCP, Jira
 
 ## Experience
+
+### ODION GmbH, Saarbrücken, Germany (July 2024 - Present) - Werkstudent Software Engineer
+- **ODION Mobile Platform**: Maintaining ODION Mobile platform using Angular Ionic for different platforms such as iOS and Android.
+- **Feature Development**: Managed to push tens of major customer features to production.
+- **Feature Testing**: Tested and maintained already existing features using Angular Jasmine.
 
 ### MONA AI GmbH (Nov 2023 - May 2023) - Software Engineer
 - Developed AI-driven applications leveraging LangChain LLMs.
 - Optimized AI pipelines using LangChain LCEL features.
 - Performed data validation using Pydantic for API integrity.
 - Enhanced CI/CD pipelines for reliability and resilience.
+
+### Flextock Onsite (July 2022 - September 2022) - Software Engineer Intern
+- **System Optimization**: Improved the systems APIs’ latencies by caching responses for common requests, enabling the system to handle around 3000-4000 requests per day.
+- **Data Serialization**: Serialized the data formats between the services by using API serialization frameworks like gRPC/Protobufs.
+- **Microservices Design**: Contributed to the design and feature implementation of microservices relating to onboarding new merchants in Flextock’s merchant Profile Services.
 
 ### AGERI Institute, Cairo University (Oct 2020 - Jun 2021) - Machine Learning Researcher
 - Developed ML models (Regression & CNN) for biomedical AI-aided systems.
@@ -51,4 +60,3 @@ Welcome to my personal GitHub page! I am a Master's student in Bioinformatics at
 ### Prot-pred
 ML model for 3D protein structure identification.  
 **More info**: [Prot-pred Repository](https://github.com/MohammedYasserr/prot-pred)
-</div>
