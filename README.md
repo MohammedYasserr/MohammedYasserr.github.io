@@ -4,7 +4,7 @@
 
 ## About Me
 
-Welcome to my personal GitHub page! I am a Master's student in Bioinformatics at Saarland University, passionate about AI, Machine Learning, and Software Development. I specialize in backend services, distributed systems, and bioinformatics applications.
+Welcome to my personal GitHub page! I am a Master's student in Bioinformatics at Saarland University, passionate about AI, Machine Learning, and Software Development. I specialize in backend services, distributed systems, and bioinformatics applications. I am particularly interested in using Machine Learning and statistical methods in Bioinformatics and Medical Imaging to advance research and applications in these fields.
 
 ## Contact Information
 
